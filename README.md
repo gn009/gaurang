@@ -20,6 +20,9 @@
 <p align="center">
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23e4626b.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   </p>
+ <p align="center">
+<img alt="React" src="https://img.shields.io/badge/react-%23e4626b.svg?style=for-the-badge&logo=react&logoColor=%23F7DF1E"/>
+  </p>
 <br>
 
 ### How To Contribute
