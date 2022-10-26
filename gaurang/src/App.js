@@ -1,7 +1,11 @@
+import Navbar from "./Components/Navbar/Navbar";
+import './App.css'
+
 function App() {
   return (
     <div className="App">
-      Start Gaurang's portfolio
+     
+     <Navbar/>
     </div>
   );
 }
